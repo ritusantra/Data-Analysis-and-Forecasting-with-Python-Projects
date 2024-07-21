@@ -1,7 +1,19 @@
-## Promotional Campaign Analysis in Retail 
+# Promotional Campaign Analysis in Retail 📊🛍️
 
-## Objective
+## Table of Content
+* [Introduction](#introduction)
+* [Tools](#tools)
+* [Methodology](#methodology)
+* [Insights](#insights)
+* [Data](#data)
 
-## Steps
+## Introduction
 
-## 
+## Tools
+
+## Methodology
+
+## Insights
+
+## Data
+[Data source](https://codebasics.io/challenge/codebasics-resume-project-challenge)
