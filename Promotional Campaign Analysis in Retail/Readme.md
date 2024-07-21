@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Tools](#tools)
 * [Methodology](#methodology)
+* [Analysis](https://github.com/ritusantra/Data-Analysis-with-Python-Projects/blob/main/Promotional%20Campaign%20Analysis%20in%20Retail/Promotional%20Campaign%20Analysis%20in%20Retail.ipynb)
 * [Insights](#insights)
 * [Data](#data)
 
