@@ -9,7 +9,7 @@
 * [Data](#data)
 
 ## Introduction
-A retail chain with over 50 supermarkets in conducted extensive promotions during Diwali and Sankranti, focusing on their branded products. The aim of the project is to evaluate the effectiveness of these promotions to inform future strategic decisions. 
+A retail chain with over 50 supermarkets conducted extensive promotions during Diwali and Sankranti, focusing on their branded products. The aim of the project is to evaluate the effectiveness of these promotions to inform future strategic decisions. 
 
 ## Tools
 Python Libraries - NumPy, pandas, Matplotlib
