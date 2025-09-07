@@ -9,9 +9,7 @@
 * [Note](#note)
 
 ## Introduction
-CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
-
-Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+To analyze and interpret survey data collected from 10,000 respondents across 10 Indian cities, following the recent launch of a new energy drink. The goal is to transform raw survey responses into actionable insights that will support the Marketing team to enhance brand awareness, expand market share, and shape future product development strategies aligned with the preferences of the Indian consumer market.
 
 ## Entity Relationship Diagram
 
