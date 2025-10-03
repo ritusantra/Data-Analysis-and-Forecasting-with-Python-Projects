@@ -34,13 +34,9 @@ Python - NumPy, pandas, Matplotlib, Seaborn, FbProphet
 
 ## Methodology
 * Imported the patient visit data using pandas.
-* Dropped the null values and renamed columns.
 * Analyzed the data to understand the patient distribution based on gender, age, and postcode.
-* Performed yearly and monthly trend analysis.
-* Developed a Python function to analyze the summary statistics of the waiting time and generate insights for each department.
-* Analyzed the correlation between numerical features.
-* Explored the cost distribution with and without insurance, and its yearly trend.
-* Analyzed total cost and patient volume by diagnosis to identify the most and least expensive diagnoses.
+* Performed yearly and monthly trend analysis of patient visits.
+  
 * 
 
 
