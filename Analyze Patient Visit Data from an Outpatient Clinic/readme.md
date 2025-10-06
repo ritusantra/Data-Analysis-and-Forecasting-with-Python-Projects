@@ -59,7 +59,7 @@ Python - NumPy, pandas, Matplotlib, Seaborn, FbProphet
 * The variable Total_Cost shows a positive correlation with the time spent in Registration, Nursing, Laboratory, Consultation, and Pharmacy. This indicates that the more time a patient spends in these areas, the higher the total cost incurred.
 * In contrast, Total_Cost has a negative correlation with the variable Has_Insurance, suggesting that patients with insurance tend to incur lower total costs compared to those without insurance.
   
-### Cost and Insurance Analysis of Patient Visit
+### Cost and Insurance Analysis of Patient
 * The average total cost is very slightly higher for female.
 * The average total cost is ~66% higher for patients without insurance.
 * The total cost peaked around 2020, and slowly declined 2021 onwards.
