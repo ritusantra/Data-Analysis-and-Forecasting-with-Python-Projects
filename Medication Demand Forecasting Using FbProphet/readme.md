@@ -14,11 +14,11 @@ Analyzed pharmacy sales data to extract insights on sales and quantity, and fore
 ## Data
 | Column Name    | Data Type | Description                 | Example                            |
 |----------------|-----------|-----------------------------|----------------------------------|
-| Date Sold      | Date      | Date when the medicine sold | 2021-05-07                       |
-| Med_name       | String    | Name of the medicine        | Clotrimazole Topical Cream (2%)  |
-| Med_class      | String    | Class/category of medicine  | Antifungal                      |
-| Quantity Sold  | Integer   | Number of units sold        | 66                               |
-| Price          | Float     | Price per unit              | 86.9                             |
+| `Date Sold`      | `Date`      | Date when the medicine sold | 2021-05-07                       |
+| `Med_name`       | `String`    | Name of the medicine        | Clotrimazole Topical Cream (2%)  |
+|` Med_class`      | `String`    | Class/category of medicine  | Antifungal                      |
+| `Quantity Sold`  | `Integer`   | Number of units sold        | 66                               |
+| `Price`          | `Float`     | Price per unit              | 86.9                             |
 
 
 ## Tools
