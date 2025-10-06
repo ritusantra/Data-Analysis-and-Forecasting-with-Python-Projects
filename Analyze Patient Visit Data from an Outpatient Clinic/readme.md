@@ -9,7 +9,7 @@
 * [Note](#note)
 
 ## Introduction
-Analyzed patient visit data to extract insights through demographic, trend, and correlation analysis. Forecasted time-based and insurance-related metrics to support data-driven decision-making. Developed Python functions and scripts to automate repetitive analysis tasks and generate actionable insights.
+Analyzed patient visit data to extract insights through demographic, trend, and correlation analyses. Forecasted total cost and wait time using FbProphet to support data-driven decision-making and optimize clinic operations. Developed Python functions and scripts to automate repetitive analysis tasks, enhancing efficiency and generating actionable insights.
 
 ## Data
 | Column Name     | Data Type | Description                                                                    |
