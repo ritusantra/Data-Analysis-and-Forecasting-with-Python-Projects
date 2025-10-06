@@ -33,7 +33,7 @@ Analyzed patient visit data to extract insights through demographic, trend, and 
 Python - NumPy, pandas, Matplotlib, Seaborn, FbProphet
 
 ## Methodology
-* Imported and preprocessed patient visit data using pandas.
+* Imported and preprocessed 1M patient visit records using pandas.
 * Conducted exploratory data analysis and statistical analysis with pandas to uncover key insights on patient behavior and cost patterns.
 * Visualized insights using Matplotlib and Seaborn to effectively communicate findings.
 * Implemented FbProphet to forecast total costs and clinic wait times.
