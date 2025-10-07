@@ -11,6 +11,7 @@
 ## Introduction
 Analyzed pharmacy sales data to extract insights on sales and quantity, and forecasted medication demand using FbProphet to support data-driven decision-making.
 
+
 ## Data
 | Column Name    | Data Type | Description                 | Example                            |
 |----------------|-----------|-----------------------------|----------------------------------|
@@ -25,21 +26,25 @@ Analyzed pharmacy sales data to extract insights on sales and quantity, and fore
 Python - NumPy, pandas, Matplotlib, Seaborn, FbProphet
 
 ## Methodology
-* Imported the pharmacy sales data using pandas.
-* Analyzed the data to understand the patient distribution based on cost and quantity sold.
-* Performed yearly and monthly trend analysis.
-
-* 
-
+* Imported and preprocessed 1M pharmacy sales records using Pandas.
+* Analyzed patient distribution based on total cost and quantity of medication sold.
+* Identified the most frequently occurring medication names and classes by quantity sold.
+* Performed yearly trend analysis on medication price and quantity sold.
+* Implemented FbProphet to forecast medication demand based on historical sales data.
 
 ## Insights
 ### Price and Quantity Analysis
-* 
+* The distributions of price and quantity sold are similar and follow a stable distribution.
+  
+### Price and Quantity Trend Analysis
+* The quantity sold peaked in 2020, remained stable until 2023, and then began to decline.
+* Similar to the quantity sold, the price peaked in 2020, remained stable through 2023, and declined thereafter.
 
 ### Medication Name and Medication Class Analysis
+* Developed a word cloud to identify the most frequently occurring medication names and classes.
 
 ### Medication Demand Forecast using FbProphet
-
+* The forecasted medication demand (quantity sold) along with trend, weekly, and yearly patterns are presented using FbProphet.
 
 ## Note
 This project is a part of [LinkedIn learning course](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare).
