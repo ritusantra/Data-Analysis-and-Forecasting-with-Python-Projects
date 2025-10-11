@@ -74,4 +74,4 @@ Python - NumPy, pandas, Matplotlib, Seaborn, FbProphet
 
 ## Note
 This project is a part of [LinkedIn learning course](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare).
-https://www.linkedin.com/posts/activity-7382663751042478080-vxgW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChuWAkBZceE0m69oawiYQSKN3Bh7SOt72w
+[LinkedIn Post](https://www.linkedin.com/posts/activity-7382663751042478080-vxgW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChuWAkBZceE0m69oawiYQSKN3Bh7SOt72w)
